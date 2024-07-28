@@ -1,0 +1,33 @@
+{
+	"theme": "Default.sublime-theme",
+	"ignored_packages":
+	[
+		"Theme - Monokai Pro",
+		"Vintage",
+		"ActionScript",
+		"AppleScript",
+		"ASP",
+		"Clojure",
+		"D",
+		"Diff",
+		"DTD",
+		"Erlang",
+		"Haskell",
+		"Go",
+		"Graphviz",
+		"Groovy",
+		"Lua",
+		"Lisp",
+		"Objective-C",
+		"OCaml",
+		"Scala",
+		"Ruby",
+		"Rails",
+		"TCL"
+	],
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"font_size": 8,
+	"dark_color_scheme": "Breakers.sublime-color-scheme",
+	"light_color_scheme": "Breakers.sublime-color-scheme",
+	"index_files": true,
+}
